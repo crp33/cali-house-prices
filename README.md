@@ -59,3 +59,20 @@ Python: Data analysis and modeling
 Pandas & NumPy: Data manipulation
 Matplotlib & Seaborn: Visualization
 Scikit-learn: Train-test split and modeling
+
+# ✅ Understanding the Data
+
+Summarizing distributions of features (e.g., income, house age, population).
+Identifying patterns and relationships (e.g., how proximity to the ocean affects house prices).
+Detecting anomalies or outliers.
+
+# ✅ Answering Business or Research Questions
+
+Which areas have the highest median house values?
+How does median income correlate with housing prices?
+What demographic factors influence housing markets?
+
+# ✅ Visualization & Insights
+
+Histograms, scatter plots, and heatmaps to show trends.
+Geographic mapping of prices across California
